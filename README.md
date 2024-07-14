@@ -7,3 +7,14 @@ Printf est une fonction système en C qui permet d’afficher des chaînes de ca
 Voici le prototype de la fonction : 
 
 `int printf(const char* formart, …);` 
+
+Voici une petite utilisation de cette fonction en langage C :
+
+```c
+#include <stdio.h>
+
+int main(void)
+{
+    printf("Hello world\n");
+}
+```
