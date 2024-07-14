@@ -2,7 +2,6 @@
 
 int main(int ac, char **av)
 {
-    //printf("Le taux de pourcentage est de %d de ouf", 75);
-    my_printf("Le taux de pourcentage est de %d %% de ouf\n", 75);
+    my_printf("Bienvenue sur le repository de mon projet Printf\n");
     return 0;
 }
